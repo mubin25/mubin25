@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Mubin Khan
-- 👀 I’m interested in Front end development
-- 🌱 I’m currently learning javascript,Mern,MySQL
+- 👀 I’m  Front end developmer
 - 📫 How to reach me ...
 csengineer21@gmail.com
 +919588911096
