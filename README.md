@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mubin Khan
-- 👀 I’m  Front end developmer
+- 👀 I’m  Full Stack Developer
 - 📫 How to reach me ...
 mubin.khan2512@gmail.com
 
